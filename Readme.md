@@ -16,7 +16,6 @@ Keyboard Viewer for KartRider: Drift
 <img src='preview2.gif'>
 <img src='preview3.gif'>
 
-......
 
 ## ⚠ Caution!!
 
